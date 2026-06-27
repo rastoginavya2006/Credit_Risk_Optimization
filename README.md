@@ -14,7 +14,8 @@ Credit_Risk_Optimization/
 └── README.md                # Project documentation
 ```
 
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 Programming Language: Python 3.x
 
@@ -27,11 +28,11 @@ Machine Learning: Scikit-Learn (Logistic Regression, Random Forest)
 Model Export: Pickle
 
 
-Dataset
+## Dataset
 
 The dataset located in the data/ directory contains customer financial records, including features such as income, credit history, loan amount, and employment status.
 
-⚙️ Methodology
+## ⚙️ Methodology
 Exploratory Data Analysis (EDA): Handled missing values, detected outliers, and visualized relationships between features to understand data distribution.
 
 Data Preprocessing: Applied feature scaling and encoded categorical variables to prepare the data for modeling.
@@ -74,7 +75,8 @@ The models successfully identified high-risk customers. Below are the key visual
 
 
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally
+```
 Clone this repository:
 
 Bash
@@ -86,8 +88,11 @@ Open the notebook/CreditRiskOptimization.ipynb file in Jupyter Notebook or Googl
 Run all the cells to train the models and generate the results.
 
 The trained models will be automatically exported as .pkl files into the model/ folder.
+```
 
 
 
-💡 Conclusion
+##💡 Conclusion
+```
 This project successfully demonstrates how Machine Learning can be leveraged to automate and optimize credit risk assessment. The models provided deep insights into feature importance, offering a reliable tool for risk mitigation in banking and finance.
+```
