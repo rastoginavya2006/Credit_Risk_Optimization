@@ -4,7 +4,7 @@
 The objective of this project is to build a predictive Machine Learning model that evaluates credit risk. By analyzing various financial and demographic factors, the model predicts the likelihood of a borrower defaulting on a loan, thereby helping financial institutions optimize lending decisions and minimize losses.
 
 ## 📁 Project Structure
-```text
+
 Credit_Risk_Optimization/
 │
 ├── data/                    # Contains the raw dataset (CSV)
