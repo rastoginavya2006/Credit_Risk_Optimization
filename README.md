@@ -43,25 +43,31 @@ The models successfully identified high-risk customers. Below are the key visual
 
 ### 1. Data Distribution
 **Target Class Distribution:**
-![Target Class Distribution](https://raw.githubusercontent.com/rastoginavya2006/Credit_Risk_Optimization/main/results/target_class_distribution.png)
+<img width="403" height="277" alt="target_class_distribution" src="https://github.com/user-attachments/assets/942f38e2-fa2b-4f8c-966c-d9fef5c09fea" />
+
 
 **Loan Status Count:**
-![Loan Status Count](https://raw.githubusercontent.com/rastoginavya2006/Credit_Risk_Optimization/main/results/loan_status_count.png)
+<img width="403" height="212" alt="loan_status_count" src="https://github.com/user-attachments/assets/636e61f5-81a3-45d6-aa05-225be3e944dc" />
+
 
 ### 2. Model Evaluation (Confusion Matrices)
 **Logistic Regression Confusion Matrix:**
-![Confusion Matrix - Logistic](https://raw.githubusercontent.com/rastoginavya2006/Credit_Risk_Optimization/main/results/confusion_matrix_logistic.png)
+<img width="346" height="259" alt="confusion_matrix_logistic" src="https://github.com/user-attachments/assets/9c7f94ce-fd8c-462d-9289-0449d53ab299" />
+
 
 **Random Forest Confusion Matrix:**
-![Confusion Matrix - Random Forest](https://raw.githubusercontent.com/rastoginavya2006/Credit_Risk_Optimization/main/results/confusion_matrix_rf.png)
+<img width="381" height="259" alt="confusion_matrix_rf" src="https://github.com/user-attachments/assets/ce192d39-2f6d-4012-bf65-d0d0441361a6" />
+
 
 ### 3. Performance Metrics
 **ROC-AUC Curve:**
-![ROC AUC Curve](https://raw.githubusercontent.com/rastoginavya2006/Credit_Risk_Optimization/main/results/roc_auc_curve.png)
+<img width="371" height="275" alt="roc_auc_curve" src="https://github.com/user-attachments/assets/ae8b98b5-ce3b-465a-8462-e4d0fa7cb0f8" />
+
 
 **Feature Importance (Random Forest):**
 *Visualizing which financial factors had the highest impact on loan default predictions.*
-![Feature Importance](https://raw.githubusercontent.com/rastoginavya2006/Credit_Risk_Optimization/main/results/feature_importance_rf.png)
+<img width="529" height="286" alt="feature_importance_rf" src="https://github.com/user-attachments/assets/6498e3ff-f477-4e85-8ef3-ced6a5d6049d" />
+
 
 
 🚀 How to Run Locally
