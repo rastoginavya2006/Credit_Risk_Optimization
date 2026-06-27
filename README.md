@@ -38,31 +38,30 @@ Model Training: Trained and evaluated two classification models: Logistic Regres
 Export: Both trained models were exported as .pkl files for potential deployment.
 
 
-📈 Results & Visualizations
+## 📈 Results & Visualizations
 The models successfully identified high-risk customers. Below are the key visual insights and evaluation metrics from the project:
 
-1. Data Distribution
-Target Class Distribution:
-![Target Class Distribution](results/target_class_distribution.png)
+### 1. Data Distribution
+**Target Class Distribution:**
+![Target Class Distribution](https://raw.githubusercontent.com/rastoginavya2006/Credit_Risk_Optimization/main/results/target_class_distribution.png)
 
-Loan Status Count:
-![Loan Status Count](results/loan_status_count.png)
+**Loan Status Count:**
+![Loan Status Count](https://raw.githubusercontent.com/rastoginavya2006/Credit_Risk_Optimization/main/results/loan_status_count.png)
 
-2. Model Evaluation (Confusion Matrices)
-Logistic Regression Confusion Matrix:
-![Logistic Confusion Matrix](https://github.com/rastoginavya2006/Credit_Risk_Optimization/blob/main/results/confusion_matrix_logistic.png)
+### 2. Model Evaluation (Confusion Matrices)
+**Logistic Regression Confusion Matrix:**
+![Confusion Matrix - Logistic](https://raw.githubusercontent.com/rastoginavya2006/Credit_Risk_Optimization/main/results/confusion_matrix_logistic.png)
 
-Random Forest Confusion Matrix:
-![Random Forest Confusion Matrix](results/confusion_matrix_rf.png)
+**Random Forest Confusion Matrix:**
+![Confusion Matrix - Random Forest](https://raw.githubusercontent.com/rastoginavya2006/Credit_Risk_Optimization/main/results/confusion_matrix_rf.png)
 
-3. Performance Metrics
-ROC-AUC Curve:
-![ROC-AUC Curve](results/roc_auc_curve.png)
+### 3. Performance Metrics
+**ROC-AUC Curve:**
+![ROC AUC Curve](https://raw.githubusercontent.com/rastoginavya2006/Credit_Risk_Optimization/main/results/roc_auc_curve.png)
 
-Feature Importance (Random Forest):
-Visualizing which financial factors had the highest impact on loan default predictions.
-![Feature Importance](results/feature_importance_rf.png)
-
+**Feature Importance (Random Forest):**
+*Visualizing which financial factors had the highest impact on loan default predictions.*
+![Feature Importance](https://raw.githubusercontent.com/rastoginavya2006/Credit_Risk_Optimization/main/results/feature_importance_rf.png)
 
 
 🚀 How to Run Locally
