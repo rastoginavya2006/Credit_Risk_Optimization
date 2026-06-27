@@ -5,7 +5,7 @@ The objective of this project is to build a predictive Machine Learning model th
 
 ## 📁 Project Structure
 ```text
-Minor_Project/
+Credit_Risk_Optimization/
 │
 ├── data/                    # Contains the raw dataset (CSV)
 ├── model/                   # Contains the trained .pkl models
@@ -50,7 +50,7 @@ Loan Status Count:
 
 2. Model Evaluation (Confusion Matrices)
 Logistic Regression Confusion Matrix:
-![Logistic Confusion Matrix](results/confusion_matrix_logistic.png)
+![Logistic Confusion Matrix](Credit_Risk_Optimization/results/confusion_matrix_logistic.png)
 
 Random Forest Confusion Matrix:
 ![Random Forest Confusion Matrix](results/confusion_matrix_rf.png)
