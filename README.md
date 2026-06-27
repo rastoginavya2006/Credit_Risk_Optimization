@@ -4,7 +4,7 @@
 The objective of this project is to build a predictive Machine Learning model that evaluates credit risk. By analyzing various financial and demographic factors, the model predicts the likelihood of a borrower defaulting on a loan, thereby helping financial institutions optimize lending decisions and minimize losses.
 
 ## 📁 Project Structure
-
+```
 Credit_Risk_Optimization/
 │
 ├── data/                    # Contains the raw dataset (CSV)
@@ -12,8 +12,10 @@ Credit_Risk_Optimization/
 ├── notebook/                # Jupyter Notebook with full code
 ├── results/                 # EDA plots and evaluation metrics
 └── README.md                # Project documentation
+```
 
 🛠️ Tech Stack
+
 Programming Language: Python 3.x
 
 Data Manipulation: Pandas, NumPy
@@ -26,6 +28,7 @@ Model Export: Pickle
 
 
 Dataset
+
 The dataset located in the data/ directory contains customer financial records, including features such as income, credit history, loan amount, and employment status.
 
 ⚙️ Methodology
@@ -39,6 +42,7 @@ Export: Both trained models were exported as .pkl files for potential deployment
 
 
 ## 📈 Results & Visualizations
+
 The models successfully identified high-risk customers. Below are the key visual insights and evaluation metrics from the project:
 
 ### 1. Data Distribution
